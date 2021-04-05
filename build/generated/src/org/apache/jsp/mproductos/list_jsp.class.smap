@@ -1,0 +1,38 @@
+SMAP
+list_jsp.java
+JSP
+*S JSP
+*F
++ 0 list.jsp
+mproductos/list.jsp
++ 1 cmeta.jspf
+mproductos/../WEB-INF/jspf/cmeta.jspf
++ 2 cstyles.jspf
+mproductos/../WEB-INF/jspf/cstyles.jspf
++ 3 cheader.jspf
+mproductos/../WEB-INF/jspf/cheader.jspf
++ 4 cfooter.jspf
+mproductos/../WEB-INF/jspf/cfooter.jspf
++ 5 cscripts.jspf
+mproductos/../WEB-INF/jspf/cscripts.jspf
+*L
+1:63
+6,8:64
+1#1,2:72
+13#0,2:74
+1#2,7:76
+14#0,8:82
+1#3,8:90
+21#0,41:98
+61:140,11
+62,2:151
+64,3:153,3
+67:162
+68:163,5
+69,4:168
+72,16:188
+1#4,4:204
+87#0,2:207
+1#5,8:209
+88#0,4:216
+*E
